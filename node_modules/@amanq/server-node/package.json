@@ -1,0 +1,23 @@
+{
+  "name": "@amanq/server-node",
+  "version": "0.0.1",
+  "type": "module",
+  "main": "src/index.ts",
+  "scripts": {
+    "dev": "tsx src/index.ts both",
+    "dev:5001": "tsx src/index.ts 5001",
+    "dev:5002": "tsx src/index.ts 5002",
+    "dev:both": "tsx src/index.ts both"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "nanoid": "^5.0.7"
+  },
+  "devDependencies": {
+    "@types/cors": "^2.8.19",
+    "@types/express": "^5.0.6",
+    "@types/node": "^25.2.1",
+    "tsx": "^4.15.6"
+  }
+}

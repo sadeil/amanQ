@@ -1,0 +1,8 @@
+{
+  "name": "@amanq/shared",
+  "version": "0.0.1",
+  "type": "module",
+  "exports": {
+    "./types": "./types/index.ts"
+  }
+}

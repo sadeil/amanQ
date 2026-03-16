@@ -1,0 +1,102 @@
+{
+  "folders": {
+    "root": {
+      "id": "root",
+      "name": "root",
+      "parentId": null
+    },
+    "bn9Wb6Ew": {
+      "id": "bn9Wb6Ew",
+      "name": "gigi",
+      "parentId": "root"
+    },
+    "cn4GkS8J": {
+      "id": "cn4GkS8J",
+      "name": "fifif",
+      "parentId": "root"
+    }
+  },
+  "files": {
+    "c8ZYk6I_": {
+      "id": "c8ZYk6I_",
+      "name": "g",
+      "ext": "txt",
+      "folderId": "root",
+      "content": "",
+      "serverVersion": 3,
+      "updatedAt": "2026-02-08T10:36:44.507Z"
+    },
+    "0iIjBK2Q": {
+      "id": "0iIjBK2Q",
+      "name": "hjh",
+      "ext": "txt",
+      "folderId": "root",
+      "content": "",
+      "serverVersion": 1,
+      "updatedAt": "2026-02-07T19:20:29.870Z"
+    },
+    "TCtIAhC1": {
+      "id": "TCtIAhC1",
+      "name": "gg",
+      "ext": "txt",
+      "folderId": "root",
+      "content": "hi this is blablabla",
+      "serverVersion": 2,
+      "updatedAt": "2026-02-07T19:28:10.066Z"
+    },
+    "fcYSOshE": {
+      "id": "fcYSOshE",
+      "name": "gigi",
+      "ext": "txt",
+      "folderId": "root",
+      "content": "",
+      "serverVersion": 1,
+      "updatedAt": "2026-02-07T22:57:09.497Z"
+    },
+    "ZY2Ez8SP": {
+      "id": "ZY2Ez8SP",
+      "name": "hostt",
+      "ext": "txt",
+      "folderId": "root",
+      "content": "",
+      "serverVersion": 1,
+      "updatedAt": "2026-02-07T22:59:43.697Z"
+    },
+    "wjcninyA": {
+      "id": "wjcninyA",
+      "name": "hoo",
+      "ext": "txt",
+      "folderId": "root",
+      "content": "",
+      "serverVersion": 1,
+      "updatedAt": "2026-02-08T10:36:58.511Z"
+    },
+    "E-1WehJr": {
+      "id": "E-1WehJr",
+      "name": "hjk",
+      "ext": "txt",
+      "folderId": "root",
+      "content": "",
+      "serverVersion": 1,
+      "updatedAt": "2026-02-08T10:40:43.308Z"
+    },
+    "miF_kGIT": {
+      "id": "miF_kGIT",
+      "name": "sadeil",
+      "ext": "txt",
+      "folderId": "root",
+      "content": "",
+      "serverVersion": 1,
+      "updatedAt": "2026-02-08T10:44:26.090Z"
+    },
+    "WZ9Uv2jg": {
+      "id": "WZ9Uv2jg",
+      "name": "motaz",
+      "ext": "txt",
+      "folderId": "root",
+      "content": "motaz iis my love ",
+      "serverVersion": 2,
+      "updatedAt": "2026-02-09T10:25:47.278Z"
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "folders": {
+    "root": {
+      "id": "root",
+      "name": "root",
+      "parentId": null
+    }
+  },
+  "files": {
+    "bA3P8tvE": {
+      "id": "bA3P8tvE",
+      "name": "hi",
+      "ext": "txt",
+      "folderId": "root",
+      "content": "this is jjjnjn\n  j",
+      "serverVersion": 10,
+      "updatedAt": "2026-02-07T11:58:01.174Z"
+    },
+    "0kwxA7rS": {
+      "id": "0kwxA7rS",
+      "name": "hii",
+      "ext": "txt",
+      "folderId": "root",
+      "content": "fghgfd",
+      "serverVersion": 2,
+      "updatedAt": "2026-02-06T12:09:48.305Z"
+    },
+    "e5N_WWIA": {
+      "id": "e5N_WWIA",
+      "name": "hhh",
+      "ext": "txt",
+      "folderId": "root",
+      "content": "hghghghghg jj",
+      "serverVersion": 3,
+      "updatedAt": "2026-02-07T11:45:04.281Z"
+    },
+    "gAz6yryA": {
+      "id": "gAz6yryA",
+      "name": "gh",
+      "ext": "txt",
+      "folderId": "root",
+      "content": "bye byej  jiinjjnn",
+      "serverVersion": 5,
+      "updatedAt": "2026-02-07T12:37:12.034Z"
+    },
+    "Cz4oNUZc": {
+      "id": "Cz4oNUZc",
+      "name": "ss",
+      "ext": "txt",
+      "folderId": "root",
+      "content": "fghjkiuyh",
+      "serverVersion": 2,
+      "updatedAt": "2026-02-07T17:41:24.874Z"
+    }
+  }
+}

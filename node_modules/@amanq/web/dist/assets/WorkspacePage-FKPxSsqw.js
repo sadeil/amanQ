@@ -1,0 +1,1 @@
+import{j as o}from"./index-7ZXOsHpt.js";import{O as r}from"./OSDesktop-Bn6kz4u_.js";import"./useDraftStore-BuyA3dDc.js";import"./DashboardContent-BJopCBvc.js";function e(){return o.jsx(r,{})}export{e as WorkspacePage};
